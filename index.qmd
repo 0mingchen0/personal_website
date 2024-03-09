@@ -1,5 +1,20 @@
 ---
-title: "Welcome"
+title: "Hi, I'm Michelle."
+about: 
+  template: trestles
+  links: 
+    - text: LinkedIn
+      url:  https://www.linkedin.com/in/michelle-wang-a5292a216/
+    - text: Email
+      url:  "mailto:minggchen@ucla.edu"
+    - text: GitHub
+      url:  https://github.com/0mingchen0/personal_website
+toc: false 
+image: IMG_3197.JPG
 ---
 
 This is the home page of my portfolio. 
+
+I am a Statistics and Data Science Student at  University of California, Los Angeles *(UCLA)*. 
+
+Here is my current [resume](/CV/Mingchen_Wang_Resume.pdf).

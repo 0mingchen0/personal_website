@@ -1,0 +1,8 @@
+---
+title: "Fundamentals of R"
+author: Jose Toledo Luna
+toc: true
+date: October 27, 2023
+---
+
+## Variables

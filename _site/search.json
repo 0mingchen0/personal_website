@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Hi, I’m Michelle.",
     "section": "",
-    "text": "This is the home page of my portfolio."
+    "text": "This is the home page of my portfolio.\nI am a Statistics and Data Science Student at University of California, Los Angeles (UCLA).\nHere is my current resume."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Projects",
     "section": "",
-    "text": "Here are some of my information."
+    "text": "Here’s a list of projects I’ve done."
   }
 ]

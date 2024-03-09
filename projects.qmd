@@ -1,0 +1,24 @@
+---
+title: Projects
+sidebar: false
+toc: false
+listing:
+  - id: notes-listing
+    contents: 
+      - "/blogs/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: table
+    fields: 
+      - title
+    categories: false 
+---
+
+
+Below is a list of some things I've done in the past, this includes coding projects, graphics, games, blogs, and everything in between. 
+
+
+
+:::projects-listing
+:::
