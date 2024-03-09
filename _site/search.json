@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Michelle.",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is the home page of my portfolio.\nI am a Statistics and Data Science Student at University of California, Los Angeles (UCLA).\nHere is my current resume."
+    "text": "Below is a list of some things I’ve done in the past, this includes coding projects, graphics, games, blogs, and everything in between.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\n\n\nDescription\n\n\nDate\n\n\n\n\n\n\nMachine learning, but in space\n\n\n\n\n\nAn article that transcribes a complex statistical research into simple everyday language. Can the Kuiper Belt’s mystery be uncovered with machine learning? We explore how researchers use advanced statistical techniques to calculate the dimension of our vast cosmic ring.\n\n\nMar 8, 2024\n\n\n\n\nThe Happiness Hackers\n\n\n\n\n\nA data-driven project as a part of an Introductory Digital Humanities course directed by Dr. Ashley Sanders Garcia and Anna Bonazzi. Aimed to explore the relationship of factors leading to happiness around the world. Written and designed by UCLA students.\n\n\nMar 8, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "Projects",
     "section": "",
     "text": "Here’s a list of projects I’ve done."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Michelle.",
+    "section": "",
+    "text": "This is the home page of my portfolio.\nI am a Statistics and Data Science Student at University of California, Los Angeles (UCLA).\nHere is my current resume."
   }
 ]

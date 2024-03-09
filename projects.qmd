@@ -6,12 +6,17 @@ listing:
   - id: notes-listing
     contents: 
       - "/blogs/*.qmd"
-    sort: false
-    sort-ui: false
+    sort: true
+      - "date desc"
+      - "title desc"
+    sort-ui: true
     filter-ui: true
     type: table
     fields: 
       - title
+      - image
+      - description
+      - date
     categories: false 
 ---
 

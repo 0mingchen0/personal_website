@@ -1,0 +1,13 @@
+---
+title: "Machine learning, but in space"
+author: Mingchen Wang
+toc: false
+date: "03-08-2024"
+description: An article that transcribes a complex statistical research into simple everyday language. Can the Kuiper Belt’s mystery be uncovered with machine learning? We explore how researchers use advanced statistical techniques to calculate the dimension of our vast cosmic ring. 
+image: "https://astrobites.org/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-11.04.22-1536x1008.png"
+---
+
+
+```{=html}
+<iframe width="780" height="500" src="https://astrobites.org/2023/09/22/machine-learning-but-in-space/" title="Machine learning, but in space"></iframe>
+```

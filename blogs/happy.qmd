@@ -1,8 +1,13 @@
 ---
-title: "Fundamentals of R"
-author: Jose Toledo Luna
-toc: true
-date: October 27, 2023
+title: "The Happiness Hackers"
+author: Mingchen Wang
+toc: false
+date: "03-08-2024"
+description: A data-driven project as a part of an Introductory Digital Humanities course directed by Dr. Ashley Sanders Garcia and Anna Bonazzi. Aimed to explore the relationship of factors leading to happiness around the world. Written and designed by UCLA students.
+image: "https://live.staticflickr.com/98/245744537_9b2401b807_b.jpg"
 ---
 
-## Variables
+
+```{=html}
+<p align="center"><iframe width="1080" height="500" src="https://thehappinesshacker.humspace.ucla.edu/" title="The Happiness Hackers"></iframe></p>
+```
