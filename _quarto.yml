@@ -7,10 +7,11 @@ website:
     left:
       - href: index.qmd
         text: Home page
-      - href: about.qmd
-        text: Everything Else
       - href: projects.qmd
         text: Projects
+      - href: about.qmd
+        text: Everything Else
+        
   page-footer: 
     right: "&copy; 2024, Mingchen Wang"
 format:
