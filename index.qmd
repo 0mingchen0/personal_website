@@ -10,7 +10,6 @@ about:
     - text: GitHub
       url:  https://github.com/0mingchen0/personal_website
 toc: false 
-image: IMG_3197.JPG
 ---
 
 This is the home page of my portfolio. 
