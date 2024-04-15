@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, I’m Michelle.",
+    "title": "Nice to meet you, I’m Mel.",
     "section": "",
-    "text": "This is the home page of my portfolio.\nI am a Statistics and Data Science Student at University of California, Los Angeles (UCLA).\nHere is my current resume."
+    "text": "Here lies a website under construction, and the countless things that made me into who I am."
   },
   {
     "objectID": "about.html#i-enjoy-trivia-random-facts-puzzles-odd-questions-and-bad-jokes.",
@@ -26,5 +26,26 @@
     "title": "Everything, everywhere, all at once.",
     "section": "",
     "text": "Here’s some of them.\n\nOwls don’t have eyeballs, (they have eye tubes or cylinders, rod* shaped eyes that do not move in their sockets as eyeballs do)\nSnow is red on Pluto\nSunset is blue on mars\nMcDonald once had cilantro flavored ice cream\nMcDonald once also had bubble gum flavored broccoli\nJamaica has 120 rivers\n30.1% of Starting number is 1 in markets, 4.6% is 9 (Benford’s law)\nThere are only 4 languages in the world where it goes Object Subject Verb (Apples love I)\nIf you can make a bathtub bigger than Saturn, Saturn will float like a rubber duck\nAlgonquin people are a tribe of indigenous people who now living in eastern Canada. They speak The Algonquin language, which is a part of the Algonquian language family. Algonquins are known for their works with beads. Many of their clothes are decorated with colorful beads. They were very famous for the stories they told.\nThe five Algonquian tribes are a group of native American tribes. They traditionally spoke similar languages, and has similar ways of life. They contain the Cree, the Mohican, the Delaware, the Ojibwa, the Shawnee and the Algonquin.\nWhen an NFT is created (artist mints NFT), it is added in block chain through energy intensive computer mining, this has the same carbon footprint as driving a car for 500 miles\nPurple is the most expensive colors in the early days, it is extracted from snail shells\nTwo words that are pronounced almost the same worldwide: coffee and chocolate\nVanilla flavoring came from anal excretions of beavers\nSuriname toad, Pipa pipa, at the Saint Louis Zoo. Females of this species birth their young from holes in their backs.\nOnce a shark spited out a human arm in a museum, and that’s how a perfect murder case is sloved."
+  },
+  {
+    "objectID": "everywhere.html",
+    "href": "everywhere.html",
+    "title": "Everything, everywhere, all at once.",
+    "section": "",
+    "text": "I enjoy trivia, random facts, puzzles, odd questions, and bad jokes. Here’s some of them.\n\nOwls don’t have eyeballs, (they have eye tubes or cylinders, rod* shaped eyes that do not move in their sockets as eyeballs do)\nSnow is red on Pluto\nSunset is blue on mars\nMcDonald once had cilantro flavored ice cream\nMcDonald once also had bubble gum flavored broccoli\nJamaica has 120 rivers\n30.1% of Starting number is 1 in markets, 4.6% is 9 (Benford’s law)\nThere are only 4 languages in the world where it goes Object Subject Verb (Apples love I)\nIf you can make a bathtub bigger than Saturn, Saturn will float like a rubber duck\nAlgonquin people are a tribe of indigenous people who now living in eastern Canada. They speak The Algonquin language, which is a part of the Algonquian language family. Algonquins are known for their works with beads. Many of their clothes are decorated with colorful beads. They were very famous for the stories they told.\nThe five Algonquian tribes are a group of native American tribes. They traditionally spoke similar languages, and has similar ways of life. They contain the Cree, the Mohican, the Delaware, the Ojibwa, the Shawnee and the Algonquin.\nWhen an NFT is created (artist mints NFT), it is added in block chain through energy intensive computer mining, this has the same carbon footprint as driving a car for 500 miles\nPurple is the most expensive colors in the early days, it is extracted from snail shells\nTwo words that are pronounced almost the same worldwide: coffee and chocolate\nVanilla flavoring came from anal excretions of beavers\nSuriname toad, Pipa pipa, at the Saint Louis Zoo. Females of this species birth their young from holes in their backs.\nOnce a shark spited out a human arm in a museum, and that’s how a perfect murder case is sloved."
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Nice to meet you, I'm Mel. ",
+    "section": "",
+    "text": "Nice to meet you, I'm Mel. \n  \n\n\n   Here lies a website under construction, and the countless things that made me into who I am.\n\n\n  Get to know me"
+  },
+  {
+    "objectID": "everything.html",
+    "href": "everything.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below is a list of some things I’ve done in the past, this includes coding projects, graphics, games, blogs, and everything in between.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\n\n\nDescription\n\n\nDate\n\n\n\n\n\n\nMachine learning, but in space\n\n\n\n\n\nAn article that transcribes a complex statistical research into simple everyday language. Can the Kuiper Belt’s mystery be uncovered with machine learning? We explore how researchers use advanced statistical techniques to calculate the dimension of our vast cosmic ring.\n\n\nMar 8, 2024\n\n\n\n\nThe Happiness Hackers\n\n\n\n\n\nA data-driven project as a part of an Introductory Digital Humanities course directed by Dr. Ashley Sanders Garcia and Anna Bonazzi. Aimed to explore the relationship of factors leading to happiness around the world. Written and designed by UCLA students.\n\n\nMar 8, 2024\n\n\n\n\nLife Expectancy Analysis and Prediction\n\n\n\n\n\nA project that intends to investigate how various variables in different nations affect one’s life expectancy. Using various modeling and prediction techniques in R and SQL, this project answers a simple question – what makes you live longer?\n\n\nMar 8, 2024\n\n\n\n\n\nNo matching items"
   }
 ]
