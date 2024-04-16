@@ -6,7 +6,7 @@ website:
   navbar:
     logo: "flower.png"
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Home sweet home
       - href: everything.qmd
         text: everything
