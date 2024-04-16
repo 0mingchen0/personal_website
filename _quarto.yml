@@ -4,6 +4,7 @@ project:
 website:
   title: ":)"
   navbar:
+    logo: "flower.png"
     left:
       - href: home.qmd
         text: Home sweet home
@@ -23,6 +24,3 @@ format:
     theme: Litera
     css: styles.css
     toc: true
-
-execute: 
-  freeze: auto

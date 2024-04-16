@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://melfunction.netlify.app/home.html</loc>
+    <lastmod>2024-04-15T23:53:37.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/everything.html</loc>
+    <lastmod>2024-03-09T07:54:56.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/blogs/life.html</loc>
+    <lastmod>2024-03-10T23:07:36.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/blogs/astro.html</loc>
+    <lastmod>2024-03-09T07:55:33.417Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/all_at_once.html</loc>
+    <lastmod>2024-04-15T23:44:40.536Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/blogs/happy.html</loc>
+    <lastmod>2024-03-10T22:41:52.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/curious.html</loc>
+    <lastmod>2024-04-15T23:44:39.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melfunction.netlify.app/everywhere.html</loc>
+    <lastmod>2024-03-10T23:16:01.489Z</lastmod>
+  </url>
+</urlset>
