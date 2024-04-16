@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Everything I do
 sidebar: false
 toc: false
 listing:
@@ -20,10 +20,11 @@ listing:
     categories: false 
 ---
 
+### Thank you for getting here...
+I use this website to record everything in my life I've enjoyed, it is more of a personal journal rather than a public portfolio. However I enjoy sharing about myself and meeting strangers, so if you ever want to get to know me, go on ahead! 
 
-Below is a list of some things I've done in the past, this includes coding projects, graphics, games, blogs, and everything in between. 
-
-
+Below you will find a non exhaustive list of things I've experimented with and proud of. I pride myself for wanting to know a little bit about everything, and hopefully I will not stop updating this list. If you came from one of these hobbies, feel free to check out the other things I'm doing. 
+This entire list is being continuously updated, and so is each of the blogs.
 
 :::projects-listing
 :::

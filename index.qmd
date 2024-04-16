@@ -17,7 +17,13 @@ toc: false
    <small class="text-hero">Here lies a website under construction, and the countless things that made me into who I am.</small>
 </p>
 
-<button class="btn-21"> <span> Get to know me </span> </button>
+<ul>
+  <li>everything: everything I've done</li>
+  <li>everywhere: everywhere I've been</li>
+  <li>all at once: miscellaneous questions</li>
+</ul>
+<br>
+<a href="https://melfunction.netlify.app/everything.html"><button class="btn-21"> <span> Get to know me </span> </button>
 
 <style type="text/css">
 
@@ -58,8 +64,8 @@ toc: false
   background-color:#F8F6F090;
   color: black !important;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid red; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
+  border-right: .15em solid #FF0000; /* The typwriter cursor */
+  white-space: nowrap; /*  Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .0em; /* Adjust as needed */
   animation: 
@@ -93,6 +99,12 @@ toc: false
 
 .btn-21:hover{
    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  font-family: "Zilla Slab";
 }
 </style>
 ```

@@ -1,3 +1,5 @@
 ---
 title: "Everything, everywhere, all at once."
 ---
+If you are ever curious about the title of pages, it is my all time favorite movie, here is one of my favorite scene from it:  
+{{< video https://www.youtube.com/watch?v=0HSusoqf9e4 >}}
