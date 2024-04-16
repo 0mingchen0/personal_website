@@ -15,7 +15,7 @@ website:
       - href: all_at_once.qmd
         text: all at once
       - href: curious.qmd
-        text: curious?
+        text: still curious?
         
   page-footer: 
     right: "&copy; 2024, Mel"
