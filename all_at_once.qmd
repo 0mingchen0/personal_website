@@ -1,5 +1,29 @@
 ---
 title: "Everything, everywhere, all at once."
+toc: false
 ---
+
+### This is a page I use for random questions I pretend one could be asking, then answer them in a passive agressive way. 
+
 If you are ever curious about the title of pages, it is my all time favorite movie, here is one of my favorite scene from it:  
 {{< video https://www.youtube.com/watch?v=0HSusoqf9e4 >}}
+
+What's the reference behind the website name? 
+
+  - Nothing really, Malfunction is a cool word so I made my name a part of it
+
+Is Mel your real name? 
+
+  - No
+  
+Why don't you use your real name? 
+
+  - Mel sounds cooler, also it makes it slightly more anonymous
+  
+But you have your real name and a picture of you in one of the projects... 
+
+  - I know 
+
+Did you draw the front page?
+
+  - Yes 

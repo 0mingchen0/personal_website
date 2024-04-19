@@ -135,14 +135,15 @@ ul.task-list li input[type="checkbox"] {
    <small class="text-hero">Here lies a website under construction, and the countless things that made me into who I am.</small>
 </p>
 
-<ul>
-  <li>everything: everything I've done</li>
-  <li>everywhere: everywhere I've been</li>
-  <li>all at once: miscellaneous questions</li>
-</ul>
-<br>
-<a href="https://melfunction.netlify.app/everything.html"><button class="btn-21"> <span> Get to know me </span> </button>
 
+<a href="https://melfunction.netlify.app/everything.html ; text-decoration: none;"><button class="glow-on-hover" type="button">Get to know me</button>
+
+
+<style>
+@import url('https://fonts.cdnfonts.com/css/tourney');
+@import url('https://fonts.cdnfonts.com/css/major-birch');
+</style>
+                
 <style type="text/css">
 
 .title {
@@ -201,34 +202,103 @@ ul.task-list li input[type="checkbox"] {
   50% { border-color: orange; }
 }
 
-.btn-21 {
+<!-- .btn-21 { -->
+<!--   margin: 0 auto; -->
+<!--   display: block; -->
+<!--   border: 2px solid #E8E8E8; -->
+<!--   color: black; -->
+<!--   padding: 15px 32px; -->
+<!--   text-align: center; -->
+<!--   text-decoration: none; -->
+<!--   font-family: "Zilla Slab"; -->
+<!--   font-size: 16px; -->
+<!--   box-shadow: 0 1px 2px rgba(0,0,0,0.15); -->
+<!--   transition: box-shadow 0.3s ease-in-out; -->
+<!-- } -->
+
+<!-- .btn-21:hover{ -->
+<!--    box-shadow: 0 5px 15px rgba(0,0,0,0.3); -->
+<!-- } -->
+
+
+.glow-on-hover {
   margin: 0 auto;
   display: block;
   border: 2px solid #E8E8E8;
   color: black;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
-  font-family: "Zilla Slab";
+  text-decoration: none !important; 
+   font-family: 'Major Birch', sans-serif;
   font-size: 16px;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.15);
-  transition: box-shadow 0.3s ease-in-out;
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
 }
 
-.btn-21:hover{
-   box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+.glow-on-hover:before {
+    text-decoration: none;
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
 }
 
-ul {
-  display: table;
-  margin: 0 auto;
-  font-family: "Zilla Slab";
+.glow-on-hover:active {
+    text-decoration: none;
+    color: #000
+}
+
+.glow-on-hover:active:after {
+    text-decoration: none;
+    background: transparent;
+}
+
+.glow-on-hover:hover:before {
+    text-decoration: none;
+    opacity: 1;
+}
+
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
 }
 </style>
 
 
 
-</a></main><a href="https://melfunction.netlify.app/everything.html"> <!-- /main -->
+</a></main><a href="https://melfunction.netlify.app/everything.html ; text-decoration: none;"> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -611,7 +681,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</a></div><a href="https://melfunction.netlify.app/everything.html"> <!-- /content -->
+</a></div><a href="https://melfunction.netlify.app/everything.html ; text-decoration: none;"> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
