@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: "G-7B3QTM28NP"
   title: ":)"
   navbar:
     logo: "flower.png"

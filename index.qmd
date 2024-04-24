@@ -20,7 +20,7 @@ website:
 </p>
 
 
-<a href="https://melfunction.netlify.app/everything.html ; text-decoration: none;"><button class="glow-on-hover" type="button">Get to know me</button>
+<a href="https://melfunction.netlify.app/everything.html"><button class="glow-on-hover" type="button">Get to know me</button>
 
 
 <style>
