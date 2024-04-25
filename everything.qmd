@@ -8,12 +8,12 @@ listing:
   - id: notes-listing
     contents: 
       - "/blogs/*.qmd"
+    type: grid
     sort: true
       - "date desc"
       - "title desc"
     sort-ui: true
     filter-ui: true
-    type: table
     fields: 
       - title
       - image

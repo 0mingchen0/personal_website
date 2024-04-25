@@ -3,6 +3,8 @@ project:
 
 website:
   google-analytics: "G-7B3QTM28NP"
+  cookie-consent: true
+  favicon: "flower.png"
   title: ":)"
   navbar:
     logo: "flower.png"

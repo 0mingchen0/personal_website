@@ -1,7 +1,0 @@
----
-format:
-  html:
-    page-layout: full
-toc: True
-title: "Art"
----

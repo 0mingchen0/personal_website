@@ -1,13 +1,41 @@
 ---
-title: "Life Expectancy Analysis and Prediction"
-author: Mingchen Wang
-toc: false
-date: "03-08-2024"
-description: A project that intends to investigate how various variables in different nations affect one’s life expectancy. Using various modeling and prediction techniques in R and SQL, this project answers a simple question -- what makes you live longer?
-image: "https://media.istockphoto.com/id/1413583709/photo/cheerful-senior-having-fun-while-taking-selfie-at-retirement-community.jpg?s=612x612&w=0&k=20&c=nYFvWrL80Zh9DCDbBJNO5DnUQQv9qliQfBjLfFcymCc="
+title: "Art and Such"
+author: Mel
+toc: True
+date: "04-25-2024"
+description: I consider myself a little bit of an artist. I make digital designs (sometimes for money!) and skech/paint traditionally. 
+image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a029b991-b4d2-4a53-aa73-d2eb682edd83/dgiyzf9-168b2424-c374-4f89-b5ba-1af6b9567d67.png/v1/fill/w_894,h_894,q_80,strp/09027a7c_f7b4_4fa9_a7f4_3148938cfdbc_by_mw0701_dgi_by_mw0701_dgiyzf9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk0IiwicGF0aCI6IlwvZlwvYTAyOWI5OTEtYjRkMi00YTUzLWFhNzMtZDJlYjY4MmVkZDgzXC9kZ2l5emY5LTE2OGIyNDI0LWMzNzQtNGY4OS1iNWJhLTFhZjZiOTU2N2Q2Ny5wbmciLCJ3aWR0aCI6Ijw9ODk0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5EpB9c1hUEybIG0xJsLwVxvEl_wx-CLelMbagqPRbZc"
 ---
+Yes, it is true that half of the stuffs on my website can be considered as art. However, this page is purely dedicated to my art pieces that does not have other purposes than solely existing. In other words, this is a log of all the digital and traditional paintings I've done. 
+
+## Collection Red
+### By the forgotten city
 ```{=html}
-<embed src="https://media.licdn.com/dms/document/media/D562DAQF0ZEjUYFe86Q/profile-treasury-document-pdf-analyzed/0/1691219355873?e=1710979200&v=beta&t=yJgZqQg2KOBjQVvE9gaxk9K6Ow2VoIcEmiX9OYJzIq0" width="780" height="500" 
- type="application/pdf">
+<img src="art\ideas.png" alt="By the forgotten city" class="center">
+
+</style>
+<style type="text/css">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+```
+
+### My own funeral
+```{=html}
+<img src="art\portr.png" alt="By the forgotten city" class="center">
+
+</style>
+<style type="text/css">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 ```
 
