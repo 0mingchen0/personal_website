@@ -25,7 +25,7 @@
     "href": "blogs/life.html#collection-red",
     "title": "Art and Such",
     "section": "Collection Red",
-    "text": "Collection Red\n\nBy the forgotten city\n\n\n\n\n\n\nMy own funeral"
+    "text": "Collection Red\n\nBy the forgotten city\n\n\n\n\n\n\nMy own funeral\n\n\n\n\n\n\nWhere the sunset is"
   },
   {
     "objectID": "all_at_once.html",
@@ -47,5 +47,26 @@
     "title": "Everywhere I’ve been",
     "section": "",
     "text": "Still here?\nThis is a page I use to log my core memories in life. That includes my favorite locations, proud achievements, memories I’ve made with friends and such."
+  },
+  {
+    "objectID": "blogs/life.html#collection-neon",
+    "href": "blogs/life.html#collection-neon",
+    "title": "Art and Such",
+    "section": "Collection Neon",
+    "text": "Collection Neon\n\nNo face"
+  },
+  {
+    "objectID": "blogs/happy.html",
+    "href": "blogs/happy.html",
+    "title": "Web Design",
+    "section": "",
+    "text": "I’ve been interested in website and UI/UX design for the longest time. This website will be the one I use to test out new ideas, while getting a basic understanding of HTML and CSS. Funny thing, this website is actually built in R studio with quarto. That is, I am using a statistical software to build my first official portfolio. Before this, I’ve used WordPress and various other non-coder friendly tools for website design. Here’s an example of another website I contributed on. (That cool spinning globe is made by me!)"
+  },
+  {
+    "objectID": "blogs/astro.html",
+    "href": "blogs/astro.html",
+    "title": "Game Design",
+    "section": "",
+    "text": "Telling Time\nI worked as the UI/UX designer for this one! That includes making the main menu, buttons, pause screen, etc."
   }
 ]

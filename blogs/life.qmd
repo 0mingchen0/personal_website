@@ -26,7 +26,7 @@ Yes, it is true that half of the stuffs on my website can be considered as art. 
 
 ### My own funeral
 ```{=html}
-<img src="art\portr.png" alt="By the forgotten city" class="center">
+<img src="art\portr.png" alt="My own funeral" class="center">
 
 </style>
 <style type="text/css">
@@ -39,3 +39,35 @@ Yes, it is true that half of the stuffs on my website can be considered as art. 
 </style>
 ```
 
+### Where the sunset is
+```{=html}
+<img src="art\building.jpg" alt="Where the sunset is" class="center">
+
+</style>
+<style type="text/css">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+```
+
+
+## Collection Neon 
+
+### No face 
+```{=html}
+<img src="art\noface.jpg" alt="No face" class="center">
+
+</style>
+<style type="text/css">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+```
