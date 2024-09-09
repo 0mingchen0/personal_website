@@ -4,6 +4,6 @@ author: Mel
 toc: false
 date: "09-09-2024"
 description: [to be updated] Another hobby I am trying to pick up.
-image: "https://64.media.tumblr.com/5761d0dfc99f08f2940078ff532e505e/f29e606f249f2879-f7/s540x810/3b0102b0b30a4fd32e731cfee663577af65747e7.jpg"
+image: "gitar.jpg"
 ---
 
