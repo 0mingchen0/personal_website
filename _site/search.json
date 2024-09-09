@@ -11,7 +11,7 @@
     "href": "everything.html",
     "title": "Everything I do",
     "section": "",
-    "text": "Thank you for getting here…\nI use this website to record everything in my life I’ve enjoyed, it is more of a personal journal rather than a public portfolio. However I enjoy sharing about myself and meeting strangers, so if you ever want to get to know me, go on ahead!\nBelow you will find a non exhaustive list of things I’ve experimented with and proud of. I pride myself for wanting to know a little bit about everything, and hopefully I will not stop updating this list. If you came from one of these hobbies, feel free to check out the other things I’m doing. This entire list is being continuously updated, and so is each of the blogs.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGame Design\n\n\nI helped develop two small games while I was in college. It is one of those things I want to keep as a hobby.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChess\n\n\nOne of my favorite hobbies.\n\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeb Design\n\n\nFor example, this website.\n\n\n\nMar 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArt and Such\n\n\nI consider myself a little bit of an artist. I make digital designs (sometimes for money!) and skech/paint traditionally.\n\n\n\nApr 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Thank you for getting here…\nI use this website to record everything in my life I’ve enjoyed, it is more of a personal journal rather than a public portfolio. However I enjoy sharing about myself and meeting strangers, so if you ever want to get to know me, go on ahead!\nBelow you will find a non exhaustive list of things I’ve experimented with and proud of. I pride myself for wanting to know a little bit about everything, and hopefully I will not stop updating this list. If you came from one of these hobbies, feel free to check out the other things I’m doing. This entire list is being continuously updated, and so is each of the blogs.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGame Design\n\n\nI helped develop two small games while I was in college. It is one of those things I want to keep as a hobby.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChess\n\n\nOne of my favorite hobbies.\n\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuitar\n\n\nto be updated. Another hobby I am trying to pick up.\n\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeb Design\n\n\nFor example, this website.\n\n\n\nMar 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArt and Such\n\n\nI consider myself a little bit of an artist. I make digital designs (sometimes for money!) and skech/paint traditionally.\n\n\n\nApr 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs/life.html",
@@ -35,11 +35,18 @@
     "text": "Collection Neon\n\nNo face"
   },
   {
+    "objectID": "blogs/gituar.html",
+    "href": "blogs/gituar.html",
+    "title": "Guitar",
+    "section": "",
+    "text": "To be updated."
+  },
+  {
     "objectID": "blogs/astro.html",
     "href": "blogs/astro.html",
     "title": "Game Design",
     "section": "",
-    "text": "Telling Time\nI worked as the UI/UX designer for this one! That includes making the main menu, buttons, pause screen, etc.\n\n\n\nSCARAB\nAgain! The UI/UX designer. I really loved the art our artist made for this game."
+    "text": "Telling Time\nI worked as the UI/UX designer for this one! That includes making the main menu, buttons, pause screen, etc.\n\n\nSCARAB\nAgain! The UI/UX designer. I really loved the art our artist made for this game."
   },
   {
     "objectID": "all_at_once.html",
@@ -47,27 +54,6 @@
     "title": "Everything, everywhere, all at once.",
     "section": "",
     "text": "This is a page I use for random questions I pretend one could be asking, then answer them in a passive agressive way.\nIf you are ever curious about the title of pages, it is my all time favorite movie, here is one of my favorite scene from it:\n\nWhat’s the reference behind the website name?\n\nNothing really, Malfunction is a cool word so I made my name a part of it\n\nIs Mel your real name?\n\nNo\n\nWhy don’t you use your real name?\n\nMel sounds cooler, also it makes it slightly more anonymous\n\nBut you have your real name and a picture of you in one of the projects…\n\nI know\n\nDid you draw the front page?\n\nYes"
-  },
-  {
-    "objectID": "blogs/happy.html",
-    "href": "blogs/happy.html",
-    "title": "Web Design",
-    "section": "",
-    "text": "I’ve been interested in website and UI/UX design for the longest time. This website will be the one I use to test out new ideas, while getting a basic understanding of HTML and CSS. Funny thing, this website is actually built in R studio with quarto. That is, I am using a statistical software to build my first official portfolio. Before this, I’ve used WordPress and various other non-coder friendly tools for website design."
-  },
-  {
-    "objectID": "curious.html",
-    "href": "curious.html",
-    "title": "Everything, everywhere, all at once.",
-    "section": "",
-    "text": "If you are ever curious about the title of pages, it is my all time favorite movie, here is one of my favorite scene from it:"
-  },
-  {
-    "objectID": "everywhere.html",
-    "href": "everywhere.html",
-    "title": "Everywhere I’ve been",
-    "section": "",
-    "text": "Still here?\nThis is a page I use to log my core memories in life. That includes my favorite locations, proud achievements, memories I’ve made with friends and such."
   },
   {
     "objectID": "blogs/chess.html",
@@ -96,5 +82,26 @@
     "title": "Chess",
     "section": "Mate in 1",
     "text": "Mate in 1"
+  },
+  {
+    "objectID": "blogs/happy.html",
+    "href": "blogs/happy.html",
+    "title": "Web Design",
+    "section": "",
+    "text": "I’ve been interested in website and UI/UX design for the longest time. This website will be the one I use to test out new ideas, while getting a basic understanding of HTML and CSS. Funny thing, this website is actually built in R studio with quarto. That is, I am using a statistical software to build my first official portfolio. Before this, I’ve used WordPress and various other non-coder friendly tools for website design."
+  },
+  {
+    "objectID": "curious.html",
+    "href": "curious.html",
+    "title": "Everything, everywhere, all at once.",
+    "section": "",
+    "text": "If you are ever curious about the title of pages, it is my all time favorite movie, here is one of my favorite scene from it:"
+  },
+  {
+    "objectID": "everywhere.html",
+    "href": "everywhere.html",
+    "title": "Everywhere I’ve been",
+    "section": "",
+    "text": "Still here?\nThis is a page I use to log my core memories in life. That includes my favorite locations, proud achievements, memories I’ve made with friends and such."
   }
 ]
