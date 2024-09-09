@@ -2,14 +2,16 @@
 title: "Game Design"
 author: Mel
 toc: True
-date: "03-08-2024"
+date: "04-08-2024"
 description: I helped develop two small games while I was in college. It is one of those things I want to keep as a hobby. 
 image: "https://i.pinimg.com/736x/eb/11/df/eb11dfdd0ad26132f51f864fd6b39b5f.jpg"
 ---
 
-# Telling Time 
+# [Telling Time](https://kaylalalavalentine.itch.io/telling-time)
 
 I worked as the UI/UX designer for this one! That includes making the main menu, buttons, pause screen, etc. 
-```{=html}
-<iframe width="780" height="500" src="https://kaylalalavalentine.itch.io/telling-time" title="Telling Time"></iframe>
-```
+
+
+# [SCARAB](https://phantom-101.itch.io/scarab)
+
+Again! The UI/UX designer. I really loved the art our artist made for this game. 
